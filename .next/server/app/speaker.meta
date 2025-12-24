@@ -3,5 +3,13 @@
     "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
     "x-next-cache-tags": "_N_T_/layout,_N_T_/speaker/layout,_N_T_/speaker/page,_N_T_/speaker"
-  }
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/speaker/__PAGE__",
+    "/speaker",
+    "/_index",
+    "/_head"
+  ]
 }

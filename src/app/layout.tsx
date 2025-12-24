@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://matusevich.dev"),
   title: {
     default:
       "Сергей Матусевич - AI-first Head of Scrum / Delivery Transformation Lead",
