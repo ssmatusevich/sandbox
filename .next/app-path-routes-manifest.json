@@ -1,0 +1,9 @@
+{
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/robots.txt/route": "/robots.txt",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/cases/page": "/cases",
+  "/speaker/page": "/speaker"
+}
