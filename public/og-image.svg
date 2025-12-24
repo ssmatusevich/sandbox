@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Сергей Матусевич — AI-first Head of Scrum</title>
+  <desc id="desc">Персональный лендинг: масштабирование delivery, OKR, AI-автоматизация</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f7fb"/>
+      <stop offset="100%" stop-color="#e9ebf3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="120" width="1040" height="390" rx="28" fill="#fff" stroke="#171717" stroke-width="3" opacity="0.9"/>
+  <text x="140" y="240" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#171717">
+    Сергей Матусевич
+  </text>
+  <text x="140" y="300" font-family="Arial, sans-serif" font-size="32" font-weight="600" fill="#171717">
+    AI-first Head of Scrum / Delivery Transformation Lead
+  </text>
+  <text x="140" y="360" font-family="Arial, sans-serif" font-size="24" fill="#3a3a3a">
+    20+ команд · Метрики → OKR → Техдолг → AI-автоматизация
+  </text>
+  <text x="140" y="420" font-family="Arial, sans-serif" font-size="24" fill="#3a3a3a">
+    Результаты: Cycle Time −60%, Lead Time −25%, Выручка +30%
+  </text>
+</svg>
+
