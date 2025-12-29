@@ -74,6 +74,19 @@ export default function RootLayout({
           href="https://matusevich.dev"
           data-oid="b4o3:df"
         />
+        <link
+          rel="icon"
+          type="image/png"
+          href="/Lego.png"
+          sizes="32x32"
+          data-oid="icon32"
+        />
+        <link
+          rel="apple-touch-icon"
+          href="/Lego.png"
+          sizes="180x180"
+          data-oid="icon180"
+        />
 
         <script
           type="application/ld+json"
