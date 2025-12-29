@@ -112,9 +112,7 @@ export default function FinalCTA() {
 
           <div className="border-t border-gray-200 pt-8" data-oid="u-5_8r:">
             <button
-              onClick={() =>
-                copyToClipboard("sergey@matusevich.dev", "email")
-              }
+              onClick={() => copyToClipboard("7mss@mail.ru", "email")}
               className="text-gray-600 hover:text-gray-900 transition-colors inline-flex items-center text-sm"
               data-oid="v4gszci"
             >
