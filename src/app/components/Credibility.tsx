@@ -3,7 +3,6 @@ export default function Credibility() {
     { name: "ОКБ", role: "Head of Scrum" },
     { name: "IT Partner", role: "Delivery Manager" },
     { name: "e-arena", role: "Project Manager" },
-    { name: "Искра", role: "Consultant" },
   ];
 
   return (
@@ -166,7 +165,6 @@ export default function Credibility() {
           >
             <p className="text-sm text-gray-600 text-center" data-oid="a.fd8zn">
               Опыт работы с финтехом, маркетплейсами, ритейлом и интеграторами.
-              Готовность к релокации: Кипр, ОАЭ, Сербия.
             </p>
           </div>
         </div>
