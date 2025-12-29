@@ -82,6 +82,13 @@ export default function RootLayout({
           data-oid="icon32"
         />
         <link
+          rel="shortcut icon"
+          type="image/png"
+          href="/Lego.png"
+          sizes="32x32"
+          data-oid="icon32-shortcut"
+        />
+        <link
           rel="apple-touch-icon"
           href="/Lego.png"
           sizes="180x180"
