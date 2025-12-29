@@ -76,6 +76,12 @@ export default function RootLayout({
         />
         <link
           rel="icon"
+          type="image/svg+xml"
+          href="/favicon.svg"
+          data-oid="icon-svg"
+        />
+        <link
+          rel="icon"
           type="image/png"
           href="/Lego.png"
           sizes="32x32"
@@ -83,9 +89,8 @@ export default function RootLayout({
         />
         <link
           rel="shortcut icon"
-          type="image/png"
-          href="/Lego.png"
-          sizes="32x32"
+          type="image/svg+xml"
+          href="/favicon.svg"
           data-oid="icon32-shortcut"
         />
         <link
@@ -93,6 +98,12 @@ export default function RootLayout({
           href="/Lego.png"
           sizes="180x180"
           data-oid="icon180"
+        />
+        <link
+          rel="mask-icon"
+          href="/safari-pinned-tab.svg"
+          color="#171717"
+          data-oid="mask-icon"
         />
 
         <script

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Сергей Матусевич favicon</title>
+  <desc id="desc">Минималистичная монограмма SM на тёмном фоне</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="20" fill="url(#bg)"/>
+  <path
+    d="M27 60c4.5 5.2 10.7 7.8 18.5 7.8 10 0 16-4.4 16-10.9 0-13.2-26-6.1-26-20.7 0-6.4 5.7-10.5 14.6-10.5 6.6 0 12.3 1.9 16.9 5.5"
+    fill="none"
+    stroke="#4ade80"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+  <path
+    d="M52 30l8 36 9-18 9 18 8-36"
+    fill="none"
+    stroke="#38bdf8"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
+
